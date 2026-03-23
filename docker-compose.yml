@@ -1,0 +1,5 @@
+services:
+  app:
+    build: .
+    ports:
+      - "18200:18200"
